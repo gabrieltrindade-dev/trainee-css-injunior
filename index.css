@@ -295,6 +295,11 @@ form button{
     left: -4%;
 }
 
+form button:hover {
+    background-color: #004d61;
+    color: white;
+}
+
 .botao{
     display: flex;
     justify-content: end;
