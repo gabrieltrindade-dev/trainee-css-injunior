@@ -38,6 +38,10 @@ header nav a{
     text-decoration: none;
 }
 
+header nav a:hover {
+  color: rgb(3, 9, 97);
+}
+
 .sobreMim {
     max-width: 100%;
     min-height: 318px;
